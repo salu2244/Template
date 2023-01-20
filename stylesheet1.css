@@ -1,0 +1,819 @@
+.mydiv {
+    height: 550px;;
+    width:100%;
+    background-color:rgb(255, 255, 255);
+  }
+  .mydiv header img{
+    margin-left:35px;
+    margin-top:10px;
+  }
+
+  .mydiv header .icon{
+    margin-right:35px;
+    margin-top:10px;
+    box-sizing: border-box;
+  }
+  header .icon .icon1{
+    box-sizing: border-box;
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    float: right;
+  }
+  header .icon .icon2{
+    box-sizing: border-box;
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    float: right;
+  }
+  header .icon .icon3{
+    box-sizing: border-box;
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    float: right;
+  }
+
+  #red{
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    margin-top:20px;
+    margin-left: 55%;
+  }
+  .mydiv img{
+    margin-left:10%;
+    position:absolute;
+    margin-top:80px;
+    z-index:1;
+  }
+
+  .gallery_in{
+    background-color: white;
+    width:550px;
+    height:500px;
+    z-index: 1;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 75px;
+  
+  }
+  .gallery_in h1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    margin-top: 1px;
+}
+.gallery_in p{
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 30px;
+margin-top: -80px;
+padding-left: 20px
+}
+.gallery_in h3{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 30px;
+  padding-left: -10px;
+  background-color: white;
+}
+.gallery_in h4{
+  background-color: #000000;
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: -75px;
+  padding-left: -10px;
+  padding: -5px;
+  margin-left: 20px;
+  width: 40%;
+  height: 20px;
+  text-align: center;
+  padding-bottom: 50px;
+  text-decoration: none;
+
+  
+}
+.gallery_in h6{
+  color: rgb(88, 83, 83);
+  margin-top: -50px;
+}
+
+  .mydiv2 {
+    height: 600px;;
+    width:100%;
+    background-color:rgb(155, 154, 154);
+  }
+  .g .g1{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    margin-left: 200px; 
+    position:absolute;
+    margin-top: -50px;
+    padding-left: 20px;
+  }
+  .g1 img{
+    width: 50px;
+    height:50px;
+    padding-top:15px;
+    padding-left: 50px;
+  }
+  .g1 h1{
+    font-size: 20px;
+    margin-top:-30px;
+    padding-left: 30px;
+  }
+  .g1 #h1{
+    color: black;
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 18px;
+    
+  }
+  .g1 #h2{
+    
+    color: black;
+    margin-top: -10px;
+    text-align: center;
+  }
+  .g .g2{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    margin-left: 450px;
+    position:absolute;
+    margin-top: -150px;
+    padding-left: 20px; 
+  }
+  .g2 img{
+    width: 50px;
+    height:50px;
+    padding-top:15px;
+    padding-left: 50px;
+  }
+  .g2 h1{
+    font-size: 20px;
+    margin-top:-30px;
+    padding-left: 30px;
+  }
+  .g2 #h1{
+    color: black;
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 18px;
+    
+  }
+  .g2 #h2{
+    
+    color: black;
+    margin-top: -10px;
+    text-align: center;
+  }
+  .g .g3{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    margin-left: 700px;
+    overflow: 500px;;
+    position:absolute;
+    margin-top: -50px;
+    padding-left: 20px;
+  }
+  .g3 img{
+    width: 50px;
+    height:50px;
+    padding-top:15px;
+    padding-left: 50px;
+  }
+  .g3 h1{
+    font-size: 20px;
+    margin-top:-30px;
+    padding-left: 30px;
+  }
+  .g3 #h1{
+    color: black;
+    margin-top: 0px;
+    margin-left: 20px;
+    font-size: 18px;
+    
+  }
+  .g3 #h2{
+    
+    color: black;
+    margin-top: -10px;
+    text-align: center;
+  }
+    .g .g4{
+      width: 200px;
+      height: 300px;
+      background-color: hwb(0 100% 0%);
+      margin-left: 950px;
+      position:absolute;
+      margin-top:-150px;
+      padding-left: 20px;
+    
+    }
+    .g4 img{
+      width: 50px;
+      height:50px;
+      padding-top:15px;
+      padding-left: 50px;
+    }
+    .g4 h1{
+      font-size: 20px;
+      margin-top:-30px;
+      padding-left: 30px;
+    }
+    .g4 #h1{
+      color: black;
+      margin-top: 0px;
+      margin-left: 20px;
+      font-size: 18px;
+      
+    }
+    .g4 #h2{
+      
+      color: black;
+      margin-top: -10px;
+      text-align: center;
+    }
+
+  
+  .blankdiv3{
+    height: 1430px;
+    width: 100%;
+    background-color: red;;
+    position: absolute;
+    margin-top: -630px;
+    z-index:-1;
+  }
+
+    #k2{
+    padding-top: 400px;
+    text-align: center;
+    color: white;
+   font-size: 60px;
+  }
+  .mydiv3 p{
+    margin-top: 00px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+  }
+  
+  .blankdivnew{
+    width:100%;
+    height:1000px;
+    background-color: #55f084;
+    margin-top:1500px;
+    position:absolute;
+  }
+  
+  .blankdiv2{
+    height: 175px;
+    width: 80%;
+    background-color:hsl(276, 8%, 88%);
+    position: absolute;
+    margin-top :100px;
+    margin-left: 120px;
+  }
+  .blankdiv2 #m1 {
+    height: 190px;
+    width: 33%;
+    margin-top: -5px;
+    margin-left: 05px;
+  }
+  .blankdiv2 p{
+     font-size:18px;  
+     width: 35%;
+  }
+  .blankdiv2 #m2{
+    height: 190px;
+    width: 33%;
+    margin-top: -205px;
+    margin-left: 375px;
+  }
+  .blankdiv2 p{
+    font-size:18px;  
+    width: 35%;
+  }
+  .blankdiv2 #m3{
+    height: 190px;
+    width: 33%;
+    margin-top: -205px;
+    margin-left: 730px;
+  }
+  
+  #m4{
+    margin-left: 5%;
+    width: 550px;
+    height: 600px;
+    margin-top: 150px;
+  }
+  
+  .blankdiv3 h1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    margin-top: 1px;
+    margin-left: 175px;
+  
+  }
+  .blankdiv3 p{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 30px;
+  margin-top: -80px;
+  padding-left: 20px;
+  margin-left: 200px;
+  
+  }
+  .blankdiv h3{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 30px;
+  padding-left: -10px;
+  
+  }
+  .blankdiv4 {
+    margin-top: 400px;;
+    background-color: #bbb1b1;
+    width:700px;
+    height:550px;
+    z-index: 1;
+    position: absolute;
+    margin-left: 40%;
+  }
+  .blankdiv4 h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+    margin-top: 1px;
+    margin-left: 90px;
+}
+.blankdiv4 p{
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 30px;
+margin-top: -80px;
+padding-left: 50px;
+color: #030211;
+}
+.blankdiv4 h6{
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-top: 10px;
+margin-left: -2px;
+}
+.blankdiv4 h4{
+   background-color: #000000;
+    border: none;
+    color: white;
+    padding: 25px;
+    margin-left: 200px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+   #z2{
+    margin-left:-55%;
+    height:600px;
+    width:550px;
+    margin-top: -460px;
+    margin-left: -450px;
+  }
+  .mydiv4 {
+    height: 800px;;
+    width:100%;
+    
+  }
+  
+  .mydiv5 {
+    height: 1000px;;
+    width:100%;
+    background-color:#e9e2e7;
+  
+  }
+  .mydiv5 h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2px;
+    margin-left: 500px;
+    margin-top: 400px;
+    position: absolute;
+  }
+
+  .b .b1{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 250px; 
+    position:absolute;
+    margin-top: 550px;
+    padding: 2px;
+    display: inline-block;
+    font-size: 20px;
+  }
+  .b1 #h1{
+    color: black;
+    margin-top: 0px;
+     font-size: 20px;
+    text-align: center;
+    
+  }
+  .b1 #h2{
+    
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+  }
+   .b2{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 700px; 
+    position:absolute;
+    margin-top: 550px;
+    padding: 2px;
+    display: inline-block;
+    font-size: 20px;
+  }
+  .b2 #h1{
+    color: black;
+    margin-top: 0px;
+     font-size: 20px;
+    text-align: center;
+    
+  }
+  .b2 #h2{
+    
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+  }
+   .b3{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 250px;
+    position:absolute;
+    margin-top: 850px;
+    padding-left: 20px; 
+  }
+  .b3 #h1{
+    color: black;
+    margin-top: 0px;
+     font-size: 20px;
+    text-align: center;
+    
+  }
+  .b3 #h2{
+    
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+  }
+  .b4{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    margin-left: 700px; 
+    position:absolute;
+    margin-top: 850px;
+    padding: 2px;
+    display: inline-block;
+    font-size: 20px;
+  }
+  .b4 #h1{
+    color: black;
+    margin-top: 0px;
+     font-size: 20px;
+    text-align: center;
+    
+  }
+  .b4 #h2{
+    
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+
+  .mydiv6 {
+    height: 1200px;
+    width:100%;
+    background-color:hsl(300, 20%, 90%);
+  
+  }
+  
+ .mydiv7 {
+    height: 800px;;
+    width:100%;
+    background-color:hwb(150 5% 63%);
+  
+  }
+  .mydiv7 {
+    margin-top: 100px;;
+    background-color: hwb(0 89% 8%);
+    width: 600px;
+    height:400px;
+    z-index: 1;
+    position: absolute;
+    margin-left: 50%;
+  }
+  .mydiv7 h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+    margin-top: -1px;
+    margin-left: 30px;
+    
+  }
+   .mydiv7 p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    margin-top: 150px;
+    padding-left: 100px;
+    color: #030211;
+    margin-left: -20px;
+    }
+  .mydiv7 h6{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: -200px;
+  margin-left: -300px;
+  padding-top: -5px;
+  
+ }
+  .mydiv7 .button{
+  background-color:hwb(0 5% 95%);
+  border: none;
+  color: white;
+  width: 200px;
+  height: 60px;
+  padding-left: 50px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-top: -50px;
+  cursor: pointer;
+  text-align: center;
+  margin-left: 50px;
+   }
+
+
+  .mydiv8 {
+    height: 900px;;
+    width:100%;
+    background-color:#9191a5;
+  
+  }
+
+ 
+ .mydiv9 {
+    height: 800px;;
+    width:100%;
+    background-color :#ecdbdb
+  
+  }
+  .mydiv9 .l1{
+    height: 800px;
+    width: 20%;
+    background-color: red;;
+    position: absolute;
+    margin-top: 80px;
+    z-index:1;
+    margin-left: 600px;
+  }
+  #j1{
+      width: 55%;
+      height:85%;
+      z-index: 1;
+      margin-left: 50px;
+      position: absolute;
+    }
+    #j2{
+        width: 40%;
+        height:80%;
+        z-index: 1;
+        margin-left: 700px;
+        position: absolute;
+        margin-top: -300px; 
+        
+    }
+    #j3 {
+        margin-top: -100px;;
+        background-color: hwb(0 89% 8%);
+        width:575px;
+        height:400px;
+        z-index: 1;
+        position: absolute;
+        margin-left: 75PX;
+      }
+      #j3 h1{
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 50px;
+        margin-top: 1px;
+        margin-left: 60px;
+      }
+       #j3 p{
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding: 30px;
+        margin-top: 150px;
+        padding-left: 50px;
+        color: #030211;
+        }
+      #j3 h6{
+      font-size: 20px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-top: -250px;
+      margin-left: -5px;
+      padding-top: 300px;
+     }
+    
+      #j3 .button{
+        background-color: #000000;
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 25px 60px;
+        text-decoration: none;
+        text-align: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top:  -30px;
+        margin-left: 40px;
+        cursor: pointer;
+      }
+    
+    
+    
+  
+  .mydiv10 {
+    height: 50px;;
+    width:100%;
+    background-color: white;
+  
+  }
+  .mydiv11 {
+    height: 800px;;
+    width:100%;
+    background-color:#090914
+  
+  }
+   .mydiv11 h1{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    margin-left:  400px;
+  }
+   .mydiv11 p{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 400px;
+    padding-top: 200px;
+    color: white;
+    }
+  
+ .mydiv11 h4{
+  background-color:#e2d6d6;
+  border: none;
+  color: white;
+  padding: 5px;
+  margin-left: 100px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin-top: 110px;
+  cursor: pointer;
+  width: 80px;
+  height: 100px;
+
+   }
+  .button6{
+    background-color: hsl(0, 23%, 94%);
+    border: none;
+    color: hwb(0 73% 23% / 0.863);
+    padding: 15px 70px;
+    text-align: center;
+    text-align: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1{
+    background-color: #ec0f0f;
+    border: none;
+    color: white;
+    padding: 15px 31px;
+    text-align: center;
+    text-align: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+ #p1{
+    
+    color: rgb(179, 230, 217);
+    margin-left: 20px;
+    margin-top:-550px;
+    
+  }
+  #p2{
+    font-size:15px;
+  }
+  #p3{
+    font-size: 20px;
+    margin-top: -150px;
+    color: #ff0707;
+
+    
+  }
+  #p4{
+    font-size: 10px;
+    margin-top: -200px;
+  }
+  #p5{
+    font-size: 10px;
+    margin-top: -200px;
+  }
+  
+   #n1{
+    font-size:30px;
+    color:red;
+    margin-left: -550px;
+    margin-top: -150px;
+   } 
+   #n3{
+    font-size:30px;
+    color:red;
+    margin-left: -50px;
+    margin-top: -260px;
+   } 
+   #n5{
+    font-size:30px;
+    color:red;
+    margin-left: 450px;
+    margin-top: -260px;
+   } 
+   #mydiv14{
+    border:1px solid hsl(120, 4%, 5%);
+    width: 100%;
+    height: 300px;
+   }
+   #mydiv15{
+    border:1px solid hwb(120 4% 95%);
+    width: 100%;
+    height: 200px;
+    margin-top:-200px;
+   }
+   #n2{
+    margin-top: -200px;
+    margin-left: -550px;
+    color: white;
+    font-size:16px;
+   }
+   #n4{
+    margin-top: -250px;
+    margin-left: -50px;
+    color: white;
+    font-size:20px;
+   }
+   #n6{
+    margin-top: -265px;
+    margin-left: -2px;
+    color: white;
+    font-size:20px;
+    padding-left: 450px;
+   }
+   .mydiv16 {
+    height: 300px;
+    width:100%;
+    background-color: #424141;
+   margin-top: -10px;
+  }
+  .mydiv16 p{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    margin-top: 50px;
+    padding-left: 50px;
+    color: white;
+
+    
+    }
+
